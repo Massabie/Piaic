@@ -35,15 +35,15 @@
 // var addResult:any=sum(50,40);
 // addResult +=5;
 // console.log(addResult);
-var studentsNames:any []=[`massab`,`haris`,`saad`,`shoaib`,`osama`]
-console.log(studentsNames.length);
-function pushnewiteminarray(studentsName:any){
-studentsNames[studentsNames.length] = studentsName
+// var studentsNames:any []=[`massab`,`haris`,`saad`,`shoaib`,`osama`]
+// console.log(studentsNames.length);
+// function pushnewiteminarray(studentsName:any){
+// studentsNames[studentsNames.length] = studentsName
 
-}
-pushnewiteminarray(`hammad`)
-pushnewiteminarray(`zeshan`)
-pushnewiteminarray(`zufishan`)
+// }
+// pushnewiteminarray(`hammad`)
+// pushnewiteminarray(`zeshan`)
+// pushnewiteminarray(`zufishan`)
 
-console.log(studentsNames);
+// console.log(studentsNames);
 
